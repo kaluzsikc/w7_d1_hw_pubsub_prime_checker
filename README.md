@@ -1,8 +1,11 @@
-Homework: Pub/Sub Prime Checker
+<h1>Homework: Pub/Sub Prime Checker</h1>
+
 Learning Objectives
 Be able to install and configure webpack in an application
 Be able to implement the pub/sub pattern in a front-end JavaScript application
-Brief
+
+<h2> Brief</h2>
+
 Your task is to create a Prime Checker application that allows a user to submit a number, and see if the number is prime or not.
 
 Use the pub/sub pattern to create modular views, with a model that handles the business logic. You should use the start point, which has the HTML already provided.
